@@ -1,0 +1,6 @@
+*/*
+!*/*.sh
+!*/*.md
+!*/*.py
+!glue/bpe-code
+!glue/dict.txt
