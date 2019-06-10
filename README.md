@@ -1,6 +1,6 @@
 # macaron-net
 
-This repo contains the codes for [our paper](https://arxiv.org/pdf/placeholder):
+This repo contains the **codes** and **pretrained models** for [our paper](https://arxiv.org/pdf/1906.02762):
 
 > Understanding and Improving Transformer From a Multi-Particle Dynamic System Point of View  
 > Yiping Lu*, Zhuohan Li*, Di He, Zhiqing Sun, Bin Dong, Tao Qin, Liwei Wang, Tie-Yan Liu
@@ -14,7 +14,7 @@ Both implementations are based on open-sourced [fairseq](https://github.com/pyto
 @article{lu2019understanding,
   title={Understanding and Improving Transformer From a Multi-Particle Dynamic System Point of View},
   author={Lu, Yiping and Li, Zhuohan and He, Di and Sun, Zhiqing and Dong, Bin and Qin, Tao and Wang, Liwei and Liu, Tie-Yan},
-  journal={arXiv preprint arXiv:placeholder},
+  journal={arXiv preprint arXiv:1906.02762},
   year={2019}
 }
 ~~~
